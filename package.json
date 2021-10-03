@@ -1,0 +1,23 @@
+{
+  "name": "angular_brad_youtube",
+  "version": "1.0.0",
+  "description": "Angular Crash Course of Brad on Youtube.",
+  "main": "index.js",
+  "scripts": {
+    "create": "ng new angular-crash",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rough-github/Angular_Brad_Youtube.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rough-github/Angular_Brad_Youtube/issues"
+  },
+  "homepage": "https://github.com/rough-github/Angular_Brad_Youtube#readme",
+  "dependencies": {
+    "@angular/cli": "^12.2.8"
+  }
+}
