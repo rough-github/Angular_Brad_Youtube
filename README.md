@@ -1,6 +1,9 @@
 # Angular_Brad_Youtube
 Angular Crash Course of Brad on Youtube.
 
+## Let's study RxJS
+Qiita -> https://qiita.com/agajo/items/7942743a0130f7a0f30b
+
 ## What s Angular?
 Angular is an application design framework and development platform for creating efficient and sophisticated single-page-apps.
 

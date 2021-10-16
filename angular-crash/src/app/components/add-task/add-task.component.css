@@ -1,0 +1,30 @@
+.add-form {
+  margin-bottom: 40px;
+}
+
+.form-control {
+  padding: 10px;
+}
+
+.form-control label {
+  margin-right: 10px;
+}
+
+.form-control input {
+  padding: 5px;
+  border: 1px #333 solid;
+  border-radius: 5px;
+}
+
+.btn {
+  background-color: #333;
+  color: #fff;
+  padding: 5px;
+  border: 1px #333 solid;
+  border-radius: 5px;
+}
+
+.btn-block {
+  display: block;
+  width: 100%;
+}
